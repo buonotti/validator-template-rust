@@ -1,5 +1,5 @@
 [package]
-name = "validator_rust_template"
+name = "validator_template_rust"
 version = "1.0.0"
 edition = "2021"
 
